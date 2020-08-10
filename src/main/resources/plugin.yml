@@ -1,0 +1,8 @@
+name: MobRule
+version: @version@
+main: com.github.yvantitov.mobrule.MobRule
+api-version: 1.16
+prefix: MobRule
+authors: [yvantitov]
+description: Let the unwashed masses decide who lives and dies.
+website: https://github.com/yvantitov
